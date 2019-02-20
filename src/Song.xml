@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songList>
+ <song>
+ <songID>0304f2e8-f12b-4938-9d87-3323c51ee105</songID>
+  <title>Flamingoo</title>
+  <length>8.02</length>
+  <filePath>songs/cometogether.mp3</filePath>
+  <releaseDate>1971-10-08 00:00:00</releaseDate>
+  <recordDate>1971-05-07 00:00:00</recordDate>
+  <Artist>
+   <artistID>0208d02c-191e-4e58-9103-f474b9253581</artistID>
+   <firstName>John</firstName>
+   <lastName>Maus</lastName>
+   <bandName>John Maus</bandName>
+   <bio>Musician</bio>
+  </Artist>
+</song>
+</songList>

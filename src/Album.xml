@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<albumList>
+<albumID>03ee2905-60ca-4ff4-a91e-73e6f3281428</albumID>
+<title>The Way Up</title>
+<releaseDate>2014-10-08 00:00:00</releaseDate>
+<coverImagePath>images/revolver.jpg</coverImagePath>
+<recordingCompany>Columbia</recordingCompany>
+<numberOfTracks>14</numberOfTracks>
+<pmrcRating>PAL</pmrcRating>
+<length>102.4</length>
+<song>
+<songID>0304f2e8-f12b-4938-9d87-3323c51ee105</songID>
+  <title>Flamingoo</title>
+  <length>8.02</length>
+  <filePath>songs/cometogether.mp3</filePath>
+  <releaseDate>1971-10-08 00:00:00</releaseDate>
+  <recordDate>1971-05-07 00:00:00</recordDate>
+</song>
+</albumList>
